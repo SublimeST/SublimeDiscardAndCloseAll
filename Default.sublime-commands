@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Discard and close all",
+        "command": "discard_and_close_all"
+    }
+]
